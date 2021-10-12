@@ -10,7 +10,7 @@ Scheduler APIs provides
 * A user/admin will be able to do CRUD operation and also book multiple schedules as well as create a new meeting room with start time and end time.
 * The user will get a warning when the user's schedule ranges overlap with other meetings.
 
-## Entity Relationship
+## Entity Relationship Diagram
 ![entity-diagram](https://user-images.githubusercontent.com/39630470/136958431-03116b5c-6b67-44ac-b840-b00f93c3d83a.PNG)
 
 ## How to run
