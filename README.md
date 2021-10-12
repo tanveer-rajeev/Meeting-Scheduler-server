@@ -1,6 +1,6 @@
 
 # Meeting Scheduler
-> Frontend repo [github]
+> Frontend repo [github](https://github.com/tanveer-rajeev/Meeting-Scheduler-react)
 <br/>
 
 ## Features
