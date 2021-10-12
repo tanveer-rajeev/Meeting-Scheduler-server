@@ -94,7 +94,7 @@ mvn spring-boot:run
      ]
      ```
       - localhost:8080/api/booking/room/6
-         - Booking room by id
+         > Booking room by id
      ```
      {
      "roomName": "Team",
