@@ -29,7 +29,7 @@ mvn spring-boot:run
 
 ## Api Documantation 
 * Post mappings
-   * localhost:8080/api/rooms
+   * api/rooms
       - Create a room endpoint. Here capacity defines the number of person can be a
       ```
       {
@@ -39,7 +39,7 @@ mvn spring-boot:run
      "endTime":"3:00 PM"
      }
      ```
-   * localhost:8080/api/booking/userName/tanveer/roomId/47
+   * api/booking/userName/tanveer/roomId/47
       - Schedule a meeting endpoint . This schedule will be done by checking some condition like start time and end time are in range/correct compare to room schedule.
      ```
      {
@@ -67,7 +67,7 @@ mvn spring-boot:run
      ```
    * Get Mappings
      
-      - localhost:8080/api/rooms/4 
+      - api/rooms/4 
         > This endpoint gives one spacific room by id(4) with booking information
      ```
      [
@@ -93,7 +93,7 @@ mvn spring-boot:run
       }
      ]
      ```
-      - localhost:8080/api/booking/room/6
+      - api/booking/room/6
          > Booking room by id
      ```
      {
